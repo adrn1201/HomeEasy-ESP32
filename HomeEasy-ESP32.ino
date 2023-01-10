@@ -7,7 +7,7 @@
 #include <DHT_U.h>
 #include <ESP32Servo.h>
 
-#define WIFI_SSID "<YOUR_WIFI_SSID >"
+#define WIFI_SSID "<YOUR_WIFI_SSID>"
 #define WIFI_PASSWORD "<YOUR_WIFI_PASSWORD>"
 #define API_KEY "<YOUR_API_KEY>"
 #define DATABASE_URL "<YOUR_DB_URL>"
